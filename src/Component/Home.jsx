@@ -13,19 +13,19 @@ function Home() {
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
       <ul className="navbar-nav me-auto mb-2 mb-lg-0">
         <li className="nav-item">
-          <Link  to="test1" spy={true} smooth={true} offset={-100} duration={500}  className="nav-link active cursor-pointer" aria-current="page" >Home</Link>
+          <Link  to="test1" spy={true} smooth={true} offset={-100} duration={50}  className="nav-link active cursor-pointer" aria-current="page" >Home</Link>
         </li>
         <li className="nav-item">
-          <Link to="test2" spy={true} smooth={true} offset={-100} duration={500}  className="nav-link cursor-pointer" >About</Link>
+          <Link to="test2" spy={true} smooth={true} offset={-100} duration={50}  className="nav-link cursor-pointer" >About</Link>
         </li>
         <li className="nav-item">
-          <Link to="test3" spy={true} smooth={true} offset={-100} duration={500}  className="nav-link cursor-pointer" >Gallery</Link>
+          <Link to="test3" spy={true} smooth={true} offset={-100} duration={50}  className="nav-link cursor-pointer" >Gallery</Link>
         </li>
         <li className="nav-item">
-          <Link  to="test4" spy={true} smooth={true} offset={-100} duration={500}  className="nav-link cursor-pointer" >Menu</Link>
+          <Link  to="test4" spy={true} smooth={true} offset={-100} duration={50}  className="nav-link cursor-pointer" >Menu</Link>
         </li>
         <li className="nav-item">
-          <Link  to="test5" spy={true} smooth={true} offset={-100}  duration={500} className="nav-link cursor-pointer" >Contact Us</Link>
+          <Link  to="test5" spy={true} smooth={true} offset={-100}  duration={50} className="nav-link cursor-pointer" >Contact Us</Link>
         </li>
         {/* <li className="nav-item dropdown">
           <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">

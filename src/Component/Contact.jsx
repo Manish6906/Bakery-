@@ -2,7 +2,7 @@
 function Contact() {
   return (
     <>
-    <div className="bg-danger p-2 text-white">
+    <div className="bg-danger p-2 text-white" id="test5">
     <h1 className="fs-1 text-center">Contact Us</h1>
     <form id="test5 ">
   <div className="form-group d-sm-flex gap-sm-4 justify-content-sm-center">
