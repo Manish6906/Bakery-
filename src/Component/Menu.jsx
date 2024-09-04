@@ -2,7 +2,9 @@
 function Menu() {
   return (
     <>
-   <div id="test4" className="bg-secondary p-3 d-sm-flex gap-4">
+    <div id="test4" className="bg-secondary" >
+    <h1 className="fs-1 text-center text-white">Menu</h1>
+   <div  className=" p-3 d-sm-flex gap-4">
 
 
    <div className="card p-2" style={{width: "18rem;"}}>
@@ -41,7 +43,7 @@ function Menu() {
 </div>
 
    </div>
-
+</div>
     </>
   )
 }

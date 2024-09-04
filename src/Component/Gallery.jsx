@@ -5,6 +5,7 @@ function Gallery() {
     <>
    
     <div id="test3" className="p-3">
+    <h1 className="fs-1 text-center ">Gallery</h1>
             <div className="d-sm-flex justify-content-sm-around gap-sm-4 mt-sm-3 p-3">
                 <h1 className=" w-75 text-center">Our Delicious Bakeries</h1>
                 <p>Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them man bun deep jianbing selfies heirloom.</p>
