@@ -12,7 +12,7 @@ function Carousel() {
   </div>
   <div className="carousel-inner">
     <div className="carousel-item active">
-      <img src="https://img.freepik.com/free-photo/delicious-looking-cupcake-with-sprinkles-floating-air_23-2150679474.jpg?t=st=1725429198~exp=1725432798~hmac=f9b29bfc75ae972e29938d545f76c8b7d0eb96d9efb488274d71a6f71485969d&w=1380" className="d-block w-100" alt="..." />
+      <img src="https://img.freepik.com/free-photo/close-up-delicious-birthday-cake_23-2150734928.jpg?t=st=1725449966~exp=1725453566~hmac=bcf31b61167d84333c18b5fc635c29bad9c17502973dcdf932927acf7b3d7c62&w=1380" className="d-block w-100" alt="..." />
       <div className="carousel-caption d-none d-md-block">
         <h5>Welcome</h5>
         <p>Food That touches the heart.</p>

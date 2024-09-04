@@ -5,7 +5,7 @@ function Home() {
   return (
     <>
  <nav className="navbar navbar-expand-lg bg-dark-subtle text-dark-emphasis fixed-top">
-  <div className="container-fluid text-white">
+  <div className="container-fluid text-white cursor-pointer">
     <a className="navbar-brand " href="#">Arley Bakery</a>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
